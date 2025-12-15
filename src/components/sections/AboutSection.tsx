@@ -8,7 +8,7 @@ export function AboutSection() {
     {
       icon: GraduationCap,
       title: 'Education',
-      description: 'Bachelor Degree in Software Engineering (BSSE) from The University of Faisalabad (TUF)',
+      description: 'Bachelor Degree in Software Engineering from The University of Faisalabad (TUF)',
     },
     {
       icon: Code2,
