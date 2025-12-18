@@ -95,7 +95,7 @@ export function Hero() {
             </Button>
             <Button asChild variant="outline" size="lg" className="group">
               <a
-                href="/public/usama.pdf"
+                href="/usama.pdf"
                 download="Mirza_Usama_Resuma.pdf"
                 className="flex items-center"
               >
